@@ -2,3 +2,6 @@
 !/.*
 !/src
 !/testes
+!/cobertura
+!/fluxoDeControleEDominio
+!/fluxoDeDados
